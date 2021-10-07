@@ -1,0 +1,8 @@
+level score: 5
+тестирование одинаковых строк
+
+
+a = int(input())
+print(a)
+a = 5
+print(a)
